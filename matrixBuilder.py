@@ -1,4 +1,4 @@
-__author__ = 'amorisse'
+__author__ = 'silkspace'
 
 
 from itertools import combinations

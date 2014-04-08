@@ -1,4 +1,4 @@
-__author__ = 'amorisse'
+__author__ = 'silkspace'
 
 import numpy as np
 from sklearn.decomposition import ProjectedGradientNMF

@@ -1,4 +1,4 @@
-__author__ = 'amorisse'
+__author__ = 'silkspace'
 
 from collections import Counter
 import numpy as np

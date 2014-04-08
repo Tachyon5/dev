@@ -1,4 +1,4 @@
 dev
 ===
 
-Where my dev code lives
+A class of simple helper functions to build good matrices for machine learning
